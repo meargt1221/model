@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    width: 200px;
+    border: 4px solid blue;
+    flex-wrap: wrap;
+    float: left;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.red {
+    background-color: red;
+}
+.green {
+    background-color: green;
+}
